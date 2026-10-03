@@ -1,0 +1,11 @@
+.gui_main {
+  display: flex;
+}
+.gui_main > .astro_cage {
+  display: block;
+}
+.gui_main > .actions {
+  display: block;
+}
+
+/*# sourceMappingURL=style.css.map */

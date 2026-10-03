@@ -1,0 +1,9 @@
+.gui_main {
+    display: flex;
+    > .astro_cage {
+        display: block;
+    }
+    > .actions {
+        display: block;
+    }
+}
